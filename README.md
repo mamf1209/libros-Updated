@@ -10,7 +10,9 @@
 ### Actualización del controlador de libros para responder con un estado `NOT_FOUND` y un mensaje personalizado en caso de no encontrar un libro.
 
 ![NotFound](https://raw.githubusercontent.com/mamf1209/libros-Updated/main/images/3.jpg)
+
 ![Postman1](https://raw.githubusercontent.com/mamf1209/libros-Updated/main/images/5.jpg)
+
 ![Postman2](https://raw.githubusercontent.com/mamf1209/libros-Updated/main/images/6.jpg)
 
 
