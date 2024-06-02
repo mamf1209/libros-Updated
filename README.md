@@ -18,7 +18,7 @@
 
 ### Modificación del controlador de libros para devolver un estado `CREATE` al agregar un nuevo libro a la biblioteca.
 
-![LibroException](https://raw.githubusercontent.com/mamf1209/libros-Updated/main/images/1.jpg)
+![NotFound](https://raw.githubusercontent.com/mamf1209/libros-Updated/main/images/3.jpg)
 
 ![StatusCreate](https://raw.githubusercontent.com/mamf1209/libros-Updated/main/images/7.jpg)
 
